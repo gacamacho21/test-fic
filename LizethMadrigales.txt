@@ -1,0 +1,4 @@
+Hola este es mi primer archivo! 
+Nombre: Lizeth
+Practica Git
+Fecha: 09/10/2025
